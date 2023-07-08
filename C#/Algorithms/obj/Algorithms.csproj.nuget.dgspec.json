@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kellt\\Documents\\Projetos\\HackerRank\\C#\\Algorithms\\Algorithms.csproj": {}
+    "C:\\Users\\kellt\\Documents\\Projetos\\HackerRank-C#\\C#\\Algorithms\\Algorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kellt\\Documents\\Projetos\\HackerRank\\C#\\Algorithms\\Algorithms.csproj": {
+    "C:\\Users\\kellt\\Documents\\Projetos\\HackerRank-C#\\C#\\Algorithms\\Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kellt\\Documents\\Projetos\\HackerRank\\C#\\Algorithms\\Algorithms.csproj",
+        "projectUniqueName": "C:\\Users\\kellt\\Documents\\Projetos\\HackerRank-C#\\C#\\Algorithms\\Algorithms.csproj",
         "projectName": "Algorithms",
-        "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\HackerRank\\C#\\Algorithms\\Algorithms.csproj",
+        "projectPath": "C:\\Users\\kellt\\Documents\\Projetos\\HackerRank-C#\\C#\\Algorithms\\Algorithms.csproj",
         "packagesPath": "C:\\Users\\kellt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kellt\\Documents\\Projetos\\HackerRank\\C#\\Algorithms\\obj\\",
+        "outputPath": "C:\\Users\\kellt\\Documents\\Projetos\\HackerRank-C#\\C#\\Algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
