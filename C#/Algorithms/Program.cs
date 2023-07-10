@@ -4,7 +4,7 @@
 // tem o metodo Start() que testa o desafio.
 // O arquivo Start é uma classe static que permite chamar diretamente o metodo Start. ex: BetweenTwoSetsStart.Start();
 
-using Algorithms.DivisibleSumPairs;
+using Algorithms.MigratoryBirds;
 
-DivisibleSumPairsStart.Start();
 
+MigratoryBirdsStart.Start();
