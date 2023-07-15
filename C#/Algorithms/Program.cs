@@ -5,6 +5,6 @@
 // O arquivo Start é uma classe static que permite chamar diretamente o metodo Start. ex: BetweenTwoSetsStart.Start();
 
 
-using Algorithms.BillDivision;
+using Algorithms._8_SalesByMatch;
 
-BillDivisionStart.Start();
+SalesByMatchStart.Start();
